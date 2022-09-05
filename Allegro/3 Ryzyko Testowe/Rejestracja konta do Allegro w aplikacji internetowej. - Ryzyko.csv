@@ -1,0 +1,9 @@
+Ryzyko Produktowe,Mitygacja ryzyka,Ryzyko Projektowe,Mitygacja ryzyka
+Nowe regulacje prawne,"Systematyczny przegląd oraz analiza ustaw, norm i przepisów prawa",Dostępność zasobów ludzkich,Przydzielenie dodatkowych pracowników 
+Skomplikowana architektura,"odpowiednie zaprojektownaie architektóry w celu łatwiejszego dalszego rozwoju, podział na mikrserwisy",Środowisko testowe nie gotowe na czas,Odpowiednio wczesna analiza i wdrożenie projektu testów
+Słabe parametry bezpieczeństwa,Wykonywanie testów niefunkcjonalnych,budżet,odpowiednia analiza budżetu
+"Nowi programiści lub zespoły programistyczne, którym może brakować doświadczenia, a tym samym stanowią większe ryzyko dla istniejącego produktu.",Zapewnienie odpowiedniego przeszkolenia personelu do ich roli,,
+napiete harmonogramy,odpowiednia estymacja z uwzglednieniem nieoczekiwanych sytuacji,,
+Wolne działanie systemu,odpowiednie projektowanie architektury aplikacji,,
+Oprogramowanie nie działa zgodnie z oczekiwaniami użytkownika,zebranie feedbacku ze wczesnych wersji aplikacji,,
+błędy związane z integracją,testy integracyjne ,,
