@@ -1,3 +1,4 @@
+[tester_oprogramowania.pdf](https://github.com/MariaFranczyk/Portfolio/files/9539777/tester_oprogramowania.pdf)
 # Portfolio
 # O Mnie
 Cześć, nazywam się Maria Franczyk, jestem początkującą testerką manualną, tutaj chciała bym Ci pokazać moje projekty oraz wiedze którą posiadam. Jestem osobą komunikatywną, dokładną, zaangażowaną i mam dużą chęć do nauki i samorozwoju.
