@@ -8,7 +8,7 @@ Miałam przyjemność uczestniczyć w kursie "Tester Oprogramowania" organizowan
   - Proces testowania i rodzaje błędów
   - Tworzenie przypadków testowych w narzędziu JIRA oraz TestRail
   - Ryzyko w zakresie testowania
-  - Korzystanie z narzędzi testowych do zgłaszania błędów oraz tworzenia przypadków testowych w JIRA
+  - Korzystanie z narzędzi testowych do zgłaszania błędów w JIRA
   - Pisanie testów automatycznych z wykorzystaniem Selenium WebDriver i technik BDD
   - Obsługa baz danych w MySQL
   - Nauczyłam się podstaw REST API oraz jak korzystać Postmana
