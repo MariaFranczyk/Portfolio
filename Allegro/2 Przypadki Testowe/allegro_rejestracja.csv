@@ -1,0 +1,52 @@
+﻿"ID","Title","Automation Type","Created By","Created On","Estimate","Expected Result","Forecast","Goals","Mission","Preconditions","Priority","References","Section","Section Depth","Section Description","Section Hierarchy","Steps","Steps","Steps (Additional Info)","Steps (Expected Result)","Steps (References)","Steps (Shared step ID)","Steps (Step)","Suite","Suite ID","Template","Type","Updated By","Updated On"
+"C1","Rejestracja konta zwykłego do Allegro w aplikacji internetowej"," None","Maria Franczyk","10/6/2022 2:01 PM","","","","","","Dostęp do komputera,
+Dostęp do internetu,
+Otwarta strona: https://allegro.pl/rejestracja","High","","Test Cases","0","","Test Cases","1. Kliknij ikonę białe koło w miejsce ""Konto Zwykłe"" (konto dla klient&oacute;w indywidualnych).
+
+Expected Result:
+Ikona białego koła zmieniła kolor na pomarańczowy.2. Kliknij w ikonę białe koło w miejscu ""E-mail"".
+Expected Result:
+Ikona białego koła zmieniła kolor na pomarańczowy.3. W polu ""e-mail"" wpisz poprawny adres e-mail. 
+Expected Result:
+Pole ""e-mail"" zostało poprawnie uzupełnione i podkreślone kolorem
+zielonym.
+4. W pole ""hasło"" wpisz hasło składające się z minimum 8 znak&oacute;w musi
+zawierać wielką literę, małą literę oraz cyfrę.
+Expected Result:
+Pole hasło zostało poprawnie uzupełnione i podkreślone kolorem
+zielonym.5. Kliknij w pole ""Mam mniej niż 18 lat"".
+Expected Result:
+Pole ""Mam mniej niż 18 lat"" zmienił kolor obramowania na pomarańczowy.6. Pole ""data urodzenia"" wpisz dokładną datę urodzin w formacie
+dd.mm.rrrr.
+Expected Result:
+Pole ""data urodzin"" została poprawnie uzupełniona i podkreślona kolorem zielonym.7. Kliknij w ikonę biały kwadrat (Pole wyboru) w miejscu ""Oświadczam, że
+znam i akceptuję postanowienia Regulaminu Allegro.""
+Expected Result:
+Pole kwadratu zostało zaznaczone (pomarańczową fajką) oraz zmienił
+kolor obramowania na pomarańczowy.8. Kliknij w ikonę biały kwadrat (Pole wyboru) w miejscu ""Transakcje w
+serwisie będę zawierać za zgodą mojego opiekuna prawnego"".
+Expected Result:
+Pole kwadratu zostało zaznaczone (pomarańczową fajką) oraz zmienił
+kolor obramowania na pomarańczowy.9. Klikamy w pomarańczowy przycisk ""ZAREJESTRUJ"". 
+Expected Result:
+Otwiera się okno z informacją ""Wysłaliśmy Ci e-mail Sprawdź swoją
+pocztę"" w celu aktywacji.","","","Ikona białego koła zmieniła kolor na pomarańczowy.","","","Kliknij ikonę białe koło w miejsce "Konto Zwykłe" (konto dla klient&oacute;w indywidualnych).
+","Master","S2","Test Case (Steps)","Other","Maria Franczyk","10/6/2022 2:13 PM"
+"","","","","","","","","","","","","","","","","","","","","Ikona białego koła zmieniła kolor na pomarańczowy.","","","Kliknij w ikonę białe koło w miejscu "E-mail".","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","Pole "e-mail" zostało poprawnie uzupełnione i podkreślone kolorem
+zielonym.
+","","","W polu "e-mail" wpisz poprawny adres e-mail. ","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","Pole hasło zostało poprawnie uzupełnione i podkreślone kolorem
+zielonym.","","","W pole "hasło" wpisz hasło składające się z minimum 8 znak&oacute;w musi
+zawierać wielką literę, małą literę oraz cyfrę.","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","Pole "Mam mniej niż 18 lat" zmienił kolor obramowania na pomarańczowy.","","","Kliknij w pole "Mam mniej niż 18 lat".","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","Pole "data urodzin" została poprawnie uzupełniona i podkreślona kolorem zielonym.","","","Pole "data urodzenia" wpisz dokładną datę urodzin w formacie
+dd.mm.rrrr.","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","Pole kwadratu zostało zaznaczone (pomarańczową fajką) oraz zmienił
+kolor obramowania na pomarańczowy.","","","Kliknij w ikonę biały kwadrat (Pole wyboru) w miejscu "Oświadczam, że
+znam i akceptuję postanowienia Regulaminu Allegro."","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","Pole kwadratu zostało zaznaczone (pomarańczową fajką) oraz zmienił
+kolor obramowania na pomarańczowy.","","","Kliknij w ikonę biały kwadrat (Pole wyboru) w miejscu "Transakcje w
+serwisie będę zawierać za zgodą mojego opiekuna prawnego".","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","Otwiera się okno z informacją "Wysłaliśmy Ci e-mail Sprawdź swoją
+pocztę" w celu aktywacji.","","","Klikamy w pomarańczowy przycisk "ZAREJESTRUJ". ","","","","","",""
