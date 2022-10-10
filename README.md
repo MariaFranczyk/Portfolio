@@ -14,5 +14,5 @@ I had the pleasure to participate in the "Software Tester" course organized by t
   - I learned the basics of REST API and how to use Postman
   - During the course I prepared for the ISTQB Foundation Level exam
 
-**certyfikat**
+**Certyfikat**
 [Tester Oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/d221644405c62a933e3585106b2a44cde07d8e8a4)
